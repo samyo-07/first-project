@@ -22,8 +22,8 @@ const TodoList = ({ items, onListClick, onItemClick }) => {
 }
 
 const itemsArray = [{ text: 'Buy grocery', done: true },
-{ text: 'Play guitar', done: false },
-{ text: 'Romantic dinner', done: false }
+{ text: 'Play guitar1', done: false },
+{ text: 'Romantic dinner1', done: false }
 ];
 
 const AppToDoList = (props) => <TodoList
